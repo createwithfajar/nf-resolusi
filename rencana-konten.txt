@@ -1,0 +1,6 @@
+RENCANA KONTEN
+- Kotlin
+- Laravel
+- Javascript
+  * React
+  * Vue
