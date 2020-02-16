@@ -5,3 +5,4 @@ RENCANA KONTEN
 - Javascript
   * React
   * Vue
+  * Angular
