@@ -1,4 +1,4 @@
-NF RESOLUSI
-- Belajar Web Programming
-- Membuat Kelas Online
-- Membuat Vlog
+RENCANA KONTEN
+- Kotlin
+- Laravel
+- Javascript
