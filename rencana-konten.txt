@@ -1,6 +1,6 @@
 RENCANA KONTEN
-- Kotlin
-- Laravel
+- Framework PHP
+  * CI
 - Javascript
-  * React
   * Vue
+  * Angular
